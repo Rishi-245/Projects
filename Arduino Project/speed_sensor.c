@@ -1,4 +1,3 @@
-// Computer Engineering Summative Project
 // Speed Sensor by Rishi
 
 // Required Libraries
